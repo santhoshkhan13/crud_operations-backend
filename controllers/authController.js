@@ -1,4 +1,6 @@
-const User = require('../models/authModel');
+// auth controller
+
+const User = require('../model/authModel');
 const bcrypt = require('bcryptjs');
 
 // Signup function
