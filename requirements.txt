@@ -1,0 +1,18 @@
+Task 1 :
+Register and login
+Register fields with validation 
+
+1. Name
+2. Mail
+3. Phone number
+4. Password
+5. Confirm password
+
+Task 2 : 
+CRUD operation - create, edit, delete and details
+Field with validation:
+1. Employee name
+2. Employee department - drop-down use some options
+3. Employee designation
+4. Employee mail
+5. Employee phone number
